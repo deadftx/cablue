@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #222222;
+  color: #094981;
   text-decoration: none;
 }
 
@@ -1575,4 +1575,11 @@ section {
 
 #footer .footer-links a:hover {
   color: #3498db;
+}
+
+
+/* Formulário */
+
+#form {
+  padding-top: 30px;
 }

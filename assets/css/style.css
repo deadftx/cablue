@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #094981;
+  color: #114C81;
   text-decoration: none;
 }
 
@@ -475,7 +475,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f7fbfe;
+  background-color: #CDDBF0;
 }
 
 .section-title {
